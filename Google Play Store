@@ -1,0 +1,32 @@
+## Google Play Store App Data Analysis
+
+
+
+---
+
+##  **Project Overview**
+
+This project analyzes Google Play Store app data to understand patterns related to app categories, pricing, installs, and content ratings.  
+Using **Python libraries** such as *Pandas* and *Matplotlib*, I explored relationships between app features and visualized key trends through scatter plots.
+
+---
+
+##  **Key Features**
+
+- **Data Cleaning**:
+  - Loaded the Google Play Store dataset into a Pandas DataFrame.
+  - Checked for missing values and handled them by removing rows with incomplete data.
+- **Data Visualization**:
+  - Created scatter plots to explore:
+    - **Category vs Installs**
+    - **Category vs Price**
+    - **Category vs Content Rating**
+  - Customized plots with large figure sizes and readable labels.
+- **Insights**:
+  - Visual identification of top categories by installs.
+  - Analysis of pricing patterns across different app types.
+  - Relationship between app categories and content rating scores.
+
+---
+
+
